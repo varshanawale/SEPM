@@ -1,4 +1,4 @@
 Hello i am studying git
+git commit
 
-git diff
 
